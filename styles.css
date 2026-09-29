@@ -1,0 +1,19 @@
+html {
+font-family: "naiad", sans-serif;
+font-weight: 700;
+font-style: normal;
+background-color: rgb(139, 113, 164);
+}
+
+body{
+    margin:0;
+}
+
+h1{
+    margin:0;
+}
+
+.main-header {
+    background-color: rgb(212, 245, 234);
+    padding: 30px;
+}
